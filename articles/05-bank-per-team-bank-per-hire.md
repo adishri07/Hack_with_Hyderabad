@@ -131,3 +131,7 @@ If recall fails when answering, the agent carries on with the handbook alone and
 **5. Decide failure behaviour per kind of memory.** Background personal notes can be best-effort. Shared knowledge that other people depend on should not be.
 
 If you're designing memory for your own agent, the [Hindsight documentation on memory banks](https://hindsight.vectorize.io/) is worth reading before you commit to a layout, and Vectorize's piece on [what agent memory is](https://vectorize.io/what-is-agent-memory) is a good primer on why this is a different problem from document retrieval.
+<img width="1498" height="926" alt="Terminal" src="https://github.com/user-attachments/assets/6c7e593f-bac2-4910-b5e7-7a970c31ff30" />
+<img width="1600" height="620" alt="I1" src="https://github.com/user-attachments/assets/5ce75960-63b7-4968-bc87-5cd66bfe812f" />
+<img width="1600" height="1000" alt="I2" src="https://github.com/user-attachments/assets/9fce388f-e7b2-4047-be52-5a085058100a" />
+
