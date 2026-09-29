@@ -1,3 +1,4 @@
+<img width="1498" height="926" alt="WhatsApp Image 2026-09-29 at 10 58 52 PM" src="https://github.com/user-attachments/assets/49184b0e-7d69-4272-81b8-98a80029f603" />
 # Using Hindsight Reflect to Find Which Wiki Pages Are Lying
 
 Every engineering manager I know has a vague sense that the onboarding docs are bad. Very few can tell you which page is worst, who owns it, and how many new hires it tripped up last quarter. We built a screen that answers those three questions, and the most useful part of it is one call to Hindsight's `reflect`.
@@ -129,3 +130,9 @@ The fix for a bad page is usually already written. A mentor wrote it in reply to
 **5. Always have a fallback.** Any feature built on a remote call should degrade to something deterministic and still useful.
 
 Every onboarding question is a small signal that some piece of documentation failed someone. Ramp collects those signals as a side effect of answering questions, and Hindsight turns them into a to-do list. If you want to understand why storing these as memories rather than log lines makes that possible, Vectorize's explainer on [agent memory for AI systems](https://vectorize.io/what-is-agent-memory) is a good read.
+<img width="1498" height="926" alt="image" src="https://github.com/user-attachments/assets/9d5d1d41-3fd9-412a-a66f-cf4a784d5f08" />
+<img width="1600" height="620" alt="image" src="https://github.com/user-attachments/assets/b5c268ed-2e1d-4a34-9e1e-e8a60445eea6" />
+<img width="1600" height="1000" alt="image" src="https://github.com/user-attachments/assets/aa3d559c-7329-419f-a33b-9d35e9beefb9" />
+
+
+
