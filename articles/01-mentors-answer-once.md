@@ -168,3 +168,7 @@ Related: memory failures must never break the chat. Personal writes go through a
 **5. Memory decays too, so design for correction.** A mentor's answer can go out of date just like a handbook page. Ramp's answer is to have mentors answer again, and the newer, dated memory wins in recall and in the prompt. That's not a full solution, but writing dates into every memory from day one is what makes it possible.
 
 What I like about this design is that it gets better through normal use. Nobody has to curate a knowledge base or remember to update the wiki. A mentor answers a question they would have answered anyway, once, and every joiner after that benefits. Hindsight does the remembering. The code just has to be honest about when it doesn't know.
+<img width="1600" height="1000" alt="WhatsApp Image 2026-09-29 at 11 01 53 PM" src="https://github.com/user-attachments/assets/fd1a6e19-057d-4b79-802e-ff12032075ff" />
+<img width="1498" height="926" alt="WhatsApp Image 2026-09-29 at 10 58 52 PM" src="https://github.com/user-attachments/assets/39a60a3f-6217-417c-9a3c-2010d20c42ac" />
+<img width="1600" height="620" alt="WhatsApp Image 2026-09-29 at 10 54 07 PM (1)" src="https://github.com/user-attachments/assets/8f12d3e9-188d-4b76-98c9-c83d07b8a7b4" />
+
