@@ -165,3 +165,4 @@ Note that the query and the stored text share almost no words. "Get database acc
 **5. Test recall with a query that doesn't share words with the memory.** It's the quickest proof you're getting semantic recall and not keyword search in disguise.
 
 Once the memory layer was dull and reliable, the interesting work could happen above it: deciding when Ramp should say "I'm not sure", and making a mentor's single answer reach every joiner after them. If you want the broader context on why agents need this kind of layer at all, Vectorize has a clear piece on [what agent memory is](https://vectorize.io/what-is-agent-memory).
+<img width="1498" height="926" alt="image" src="https://github.com/user-attachments/assets/d77a213f-6ac7-4ebc-bce2-d66f7c759623" />
