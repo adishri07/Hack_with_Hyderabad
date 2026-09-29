@@ -1,0 +1,17 @@
+[
+  {"id": "priya",  "name": "Priya Nair",      "type": "joiner",  "role": "Software Engineer",   "team": "Platform", "start_date": "2026-09-21", "mentor_id": "rahul", "current": true},
+  {"id": "meera",  "name": "Meera Joshi",     "type": "joiner",  "role": "Product Designer",    "team": "Design",   "start_date": "2026-09-24", "mentor_id": "kiran", "current": true},
+  {"id": "arjun",  "name": "Arjun Mehta",     "type": "joiner",  "role": "Software Engineer",   "team": "Platform", "start_date": "2026-09-28", "mentor_id": "rahul", "current": true},
+
+  {"id": "karan",  "name": "Karan Malhotra",  "type": "joiner",  "role": "Software Engineer",   "team": "Platform", "start_date": "2026-06-02", "mentor_id": "rahul", "current": false},
+  {"id": "aisha",  "name": "Aisha Khan",      "type": "joiner",  "role": "Data Analyst",        "team": "Insights", "start_date": "2026-06-16", "mentor_id": "sneha", "current": false},
+  {"id": "vikram", "name": "Vikram Rao",      "type": "joiner",  "role": "Software Engineer",   "team": "Platform", "start_date": "2026-07-07", "mentor_id": "rahul", "current": false},
+  {"id": "neha",   "name": "Neha Kulkarni",   "type": "joiner",  "role": "Product Designer",    "team": "Design",   "start_date": "2026-08-04", "mentor_id": "kiran", "current": false},
+  {"id": "rohan",  "name": "Rohan Das",       "type": "joiner",  "role": "Software Engineer",   "team": "Platform", "start_date": "2026-08-18", "mentor_id": "rahul", "current": false},
+
+  {"id": "rahul",  "name": "Rahul Iyer",      "type": "mentor",  "role": "Senior Engineer",     "team": "Platform"},
+  {"id": "sneha",  "name": "Sneha Reddy",     "type": "mentor",  "role": "Lead Data Analyst",   "team": "Insights"},
+  {"id": "kiran",  "name": "Kiran Patil",     "type": "mentor",  "role": "Senior Designer",     "team": "Design"},
+
+  {"id": "anita",  "name": "Anita Desai",     "type": "manager", "role": "Engineering Manager", "team": "Engineering"}
+]
