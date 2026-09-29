@@ -315,7 +315,8 @@ def welcome_back(joiner_id: str) -> str:
         notes = "\n".join(f"- {m.text}" for m in memories) or "(none)"
         return llm.chat(
             "You write a warm, specific 2-3 sentence welcome-back note for a new joiner. Mention what they "
-            "finished, anything they are stuck on, and the single next step. No lists, no emojis.",
+            "finished, anything they are stuck on, and the single next step. No lists, no emojis. "
+            "Use only the facts given and never invent anything.",
             f"Joiner: {joiner['name']}, {joiner['role']}.\nProgress facts: {fallback}\n"
             f"Their memory:\n{notes}",
             temperature=0.4,
