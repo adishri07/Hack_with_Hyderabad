@@ -1,3 +1,4 @@
+<img width="1600" height="620" alt="WhatsApp Image 2026-09-29 at 10 54 07 PM" src="https://github.com/user-attachments/assets/f83dd581-0f09-40ac-bd63-fb90fda89e3f" />
 # I Added a Memory Off Switch to Prove Hindsight Mattered
 
 The most persuasive control in our onboarding assistant is a toggle labelled "Memory on". Flip it off and the assistant confidently tells a new engineer to email IT for a shared database password, a process that was retired years ago. Flip it on and the same question gets the correct steps, with the name of the mentor who wrote them and the date.
@@ -139,3 +140,9 @@ Streamlit reruns the whole script on every click. Two consequences:
 **5. Tell mentors their answer is permanent.** The copy on the mentor screen improved the answers that went into memory, which improved every answer after that.
 
 If you're building something similar, the [Hindsight docs on retain, recall and reflect](https://hindsight.vectorize.io/) are worth reading before you design the screens, because the three operations map neatly to three kinds of UI: writing, answering, and summarising. And if you're still deciding whether your assistant needs memory at all, Vectorize's explainer on [agent memory](https://vectorize.io/what-is-agent-memory) is a good place to start.
+![Uploading WhatsApp Image 2026-09-29 at 10.54.07 PM.jpeg…]()
+<img width="1498" height="926" alt="WhatsApp Image 2026-09-29 at 10 58 52 PM" src="https://github.com/user-attachments/assets/7a6e279c-31a2-49da-a2f0-559a8bcbb3c5" />
+<img width="1600" height="1000" alt="WhatsApp Image 2026-09-29 at 11 01 53 PM" src="https://github.com/user-attachments/assets/52060ff1-8639-4295-97d9-ab87a4efe0fa" />
+
+
+
